@@ -15,7 +15,7 @@ El reconocimiento de patrones, siendo una subdisciplina esencial de la inteligen
 Estudiante de quinto año de la carrera de Ingeniería Biomédica PUCP-UPCH. Me considero una persona perseverante y optimista, siento entusiasmo por los temas a abordar en el curso pues considero al Machine Learning una herramienta esencial para el desarrollo de nueva tecnología.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PatronesGrupo4/Grupo4/main/Imágenes/FOTO.jpg" width="20%" height="20%">
+  <img src="https://raw.githubusercontent.com/PatronesGrupo4/Grupo4/main/Imágenes/FOTO.jpg" width="21%" height="21%">
 </p>
 
 ### Sergio Enrique Moreno Elescano
