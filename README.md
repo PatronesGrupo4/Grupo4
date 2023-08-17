@@ -1,6 +1,7 @@
 # Grupo 4
 
-![](https://github.com/PatronesGrupo4/Grupo4/blob/main/Im%C3%A1genes/descarga%20(1).jpeg) ![](https://github.com/PatronesGrupo4/Grupo4/blob/main/Im%C3%A1genes/PUCP.png)
+![](https://github.com/PatronesGrupo4/Grupo4/blob/main/Im%C3%A1genes/descarga%20(1).jpeg) 
+![](https://github.com/PatronesGrupo4/Grupo4/blob/main/Im%C3%A1genes/PUCP.png)
 ## Motivación
 El mundo está inundado de datos, desde los más simples a los más complejos, desde patrones visibles a simple vista hasta aquellos que requieren una mirada más detenida para ser percibidos. A medida que la tecnología evoluciona, la capacidad de descifrar, comprender y utilizar estos patrones se vuelve cada vez más crucial para la innovación y el progreso.
 
