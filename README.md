@@ -18,3 +18,7 @@ Estudiante de quinto año de la carrera de Ingeniería Biomédica PUCP-UPCH. Me 
 
 ### Sergio Enrique Moreno Elescano
 Estudiante de quinto año de la carrera de Ingeniería Biomédica PUCP-UPCH muy proactivo con interés en expandir su red de contactos y sus conocimientos en el tema de Machine Learning y procesamiento de señales e imágenes biomédicas. Su motivación principal es poder realizar innovación tecnológica que contribuya a mejorar los servicios de salud en el Perú.
+
+<p align="center">
+  <img src="https://github.com/PatronesGrupo4/Grupo4/blob/main/Im%C3%A1genes/foto_ser.jpeg" width="50%" height="50%">
+</p>
