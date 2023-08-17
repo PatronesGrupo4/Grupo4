@@ -8,5 +8,6 @@ El reconocimiento de patrones, siendo una subdisciplina esencial de la inteligen
 
 ## Integrantes
 ### Alonso Santiago Morán Espinoza
+Estudiante de quinto año de la carrera de Ingeniería Biomédica PUCP-UPCH. Me considero una persona perseverante y optimista, siento entusiasmo por los temas a abordar en el curso pues considero al Machine Learning una herramienta esencial para el desarrollo de nueva tecnología.
 ### Serigo Enrique Moreno Elescano
 Estudiante de quinto año de la carrera de Ingeniería Biomédica PUCP-UPCH muy proactivo con interés en expandir su red de contactos y sus conocimientos en el tema de Machine Learning y procesamiento de señales e imágenes biomédicas. Su motivación principal es poder realizar innovación tecnológica que contribuya a mejorar los servicios de salud en el Perú.
