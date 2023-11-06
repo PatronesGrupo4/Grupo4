@@ -11,12 +11,9 @@ Este repositorio nace con el propósito de ser una fuente centralizada y complet
 El reconocimiento de patrones, siendo una subdisciplina esencial de la inteligencia artificial y el aprendizaje automático, tiene aplicaciones que se extienden a innumerables dominios: desde la visión por computadora y el análisis de voz hasta las predicciones financieras y la medicina. Entender estos patrones es clave para desarrollar sistemas más inteligentes y aplicaciones más eficientes.
 
 ## Integrantes
-### Alonso Santiago Morán Espinoza
+### 	José Augusto Modesto Huaylinos Guerrero
 Estudiante de quinto año de la carrera de Ingeniería Biomédica PUCP-UPCH. Me considero una persona perseverante y optimista, siento entusiasmo por los temas a abordar en el curso pues considero al Machine Learning una herramienta esencial para el desarrollo de nueva tecnología.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PatronesGrupo4/Grupo4/main/Imágenes/FOTO.jpg" width="20%" height="20%">
-</p>
 
 ### Sergio Enrique Moreno Elescano
 Estudiante de quinto año de la carrera de Ingeniería Biomédica PUCP-UPCH muy proactivo con interés en expandir su red de contactos y sus conocimientos en el tema de Machine Learning y procesamiento de señales e imágenes biomédicas. Su motivación principal es poder realizar innovación tecnológica que contribuya a mejorar los servicios de salud en el Perú.
